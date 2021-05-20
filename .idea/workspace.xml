@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="777c1ade-4075-4d67-a6fc-88e4da64e664" name="Default Changelist" comment="All Proyect">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ypf-streamlit.iml" afterDir="false" />
+    <list default="true" id="777c1ade-4075-4d67-a6fc-88e4da64e664" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +58,21 @@
       <option name="project" value="LOCAL" />
       <updated>1619447028198</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="All Proyect">
+      <created>1619447260446</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619447260446</updated>
+    </task>
+    <task id="LOCAL-00004" summary="All Proyect">
+      <created>1619447430027</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619447430027</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,13 +91,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="All Proyect" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="324" y="-948" key="CommitChangelistDialog2" timestamp="1619447255421">
+    <state x="324" y="-948" key="CommitChangelistDialog2" timestamp="1621522199525">
       <screen x="-121" y="-1050" width="1680" height="1010" />
     </state>
-    <state x="324" y="-948" key="CommitChangelistDialog2/0.0.1366.728/-121.-1050.1680.1010@-121.-1050.1680.1010" timestamp="1619447255421" />
-    <state x="311" y="-811" key="Vcs.Push.Dialog.v2" timestamp="1619447265679">
+    <state x="324" y="-948" key="CommitChangelistDialog2/0.0.1366.728/-121.-1050.1680.1010@-121.-1050.1680.1010" timestamp="1621522199525" />
+    <state x="311" y="-811" key="Vcs.Push.Dialog.v2" timestamp="1619447434244">
       <screen x="-121" y="-1050" width="1680" height="1010" />
     </state>
-    <state x="311" y="-811" key="Vcs.Push.Dialog.v2/0.0.1366.728/-121.-1050.1680.1010@-121.-1050.1680.1010" timestamp="1619447265679" />
+    <state x="311" y="-811" key="Vcs.Push.Dialog.v2/0.0.1366.728/-121.-1050.1680.1010@-121.-1050.1680.1010" timestamp="1619447434244" />
   </component>
 </project>
